@@ -4,7 +4,7 @@
 
         public function actionIndex(){
 
-            $this->view('user/index');
+            $this->view('employee/index');
         }
 
         public function actionCreate(){
